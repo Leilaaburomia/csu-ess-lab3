@@ -1,0 +1,15 @@
+---
+title: "Lab 3: COVID-19"
+subtitle: 'Ecosystem Science and Sustainability 330'
+author:
+  name: Leila Aburomia 
+  email: Leilaa2485@gmail.com
+format: html
+---
+
+```{r}
+library(tidyverse)
+library(flextable)
+library(zoo)
+```
+
